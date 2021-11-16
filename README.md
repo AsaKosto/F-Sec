@@ -1,5 +1,6 @@
 # F-Sec
 The Minefield
+
 Asa Kosto
 
 Approach and Strategy:
